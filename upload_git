@@ -1,0 +1,14 @@
+#!/bin/bash
+
+
+git config --global user.email "99791182@163.com"
+git config --global user.name "oabo"
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M installdocker
+git remote add origin git@github.com:oabo/galaxy.git
+git push -u origin installdocker
+
+
