@@ -45,13 +45,5 @@ tags: []
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: http://example.com/repository
-
+repository: https://www.github.com/oabo/galaxy/tree/installdocker
 # The URL to any online docs
-documentation: http://docs.example.com
-
-# The URL to the homepage of the collection/project
-homepage: http://example.com
-
-# The URL to the collection issue tracker
-issues: http://example.com/issue/tracker
