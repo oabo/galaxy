@@ -10,4 +10,4 @@ namespace: oabo
 readme: README.md
 repository: https://github.com/oabo/galaxy/tree/installdocker
 tags: []
-version: 1.0.8
+version: 1.0.9
